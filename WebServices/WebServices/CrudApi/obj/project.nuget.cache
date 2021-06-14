@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7y8aWBo5mik0681npWc5+IWInmt8R/5NlVqkCksTlH3Uxq2gv40w/iHUBpTzG6ASkkqDrAzI4p3E6pdrXcjeMQ==",
+  "success": true,
+  "projectFilePath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/CrudApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/trickered/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

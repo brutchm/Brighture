@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/CrudApi.csproj": {}
+  },
+  "projects": {
+    "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/CrudApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/CrudApi.csproj",
+        "projectName": "CrudApi",
+        "projectPath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/CrudApi.csproj",
+        "packagesPath": "/Users/trickered/.nuget/packages/",
+        "outputPath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/CrudApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trickered/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/Entities.csproj": {
+                "projectPath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/Entities.csproj",
+        "packagesPath": "/Users/trickered/.nuget/packages/",
+        "outputPath": "/Users/trickered/Documents/Brighture/WebServices/WebServices/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trickered/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
